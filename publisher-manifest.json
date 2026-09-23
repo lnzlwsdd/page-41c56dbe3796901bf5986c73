@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "73ef85990764ac07217ac3eb",
+  "owner": "lnzlwsdd",
+  "repo": "page-41c56dbe3796901bf5986c73",
+  "title": "飞鸟(FlyingBird)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "41c56dbe3796901bf5986c73",
+      "a": "飞鸟(FlyingBird)",
+      "b": "2027官方最新地址导航",
+      "entity": "飞鸟(FlyingBird)",
+      "brand": "飞鸟(FlyingBird)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "de3cfce69c83d5e25cb54c38700a0144baf56724d8007a4adff0db735f0b2985",
+      "content": {
+        "primary_entity": "飞鸟(FlyingBird)",
+        "keyword1": "飞鸟(FlyingBird)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，按订阅文档导入配置即可使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档导入订阅，即可开始使用飞鸟加速。",
+          "AI_CLOSING_TITLE": "开启飞鸟加速",
+          "AI_DESCRIPTION": "，飞鸟(FlyingBird)提供基础版、旗舰版与团队版三档订阅，分别对应不同流量额度、设备数量与线路类型，适合个人日常浏览到团队协作等多种场景。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量和订阅周期三个角度快速了解飞鸟的服务结构。",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备并含IPLC专线；团队版每月1000GB、20台设备。",
+          "AI_FEATURE_TEXT_2": "单人使用可选基础版，多设备或流媒体与游戏需求可考虑旗舰版，多人共享或企业场景适合团队版。",
+          "AI_FEATURE_TEXT_3": "三档均提供按年付方案，年付价格低于按月累计支出，长期使用可优先考虑年度订阅。",
+          "AI_FEATURE_TITLE_1": "三档套餐对比",
+          "AI_FEATURE_TITLE_2": "按需求选版本",
+          "AI_FEATURE_TITLE_3": "年付更省成本",
+          "AI_GUIDE_INTRO": "确认套餐、核对设备数量、按客户端文档导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "飞鸟(FlyingBird)面向海外网络加速场景，提供基础版、旗舰版和团队版三种订阅方案，覆盖流量、设备数量与线路类型的差异化需求，帮助用户按自身使用强度选择合适的套餐并完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多档订阅，按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "按设备数匹配版本",
+          "AI_HIGHLIGHT_3": "支持年付订阅",
+          "AI_PLANS_INTRO": "基础版每月100GB、3台设备；旗舰版每月300GB、5台设备含IPLC专线；团队版每月1000GB、20台设备，可按需对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与在线设备数量，在基础版、旗舰版、团队版中确定版本。",
+          "AI_STEP_TEXT_2": "核对所选套餐支持的设备数量与线路类型，确认满足自身使用场景。",
+          "AI_STEP_TEXT_3": "在对应客户端中按订阅文档导入配置信息，完成后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "飞鸟(FlyingBird)订阅导航",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。若日常手机、电脑、平板多设备共用，建议从旗舰版起步；小型团队或家庭共享可选团队版。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB。流量按自然月计算，超出后可等待下月重置或升级套餐获得更多流量。",
+          "AI_FAQ_ANSWER_3": "三档套餐均提供按年付选项：基础版150元/年、旗舰版350元/年、团队版850元/年。年付相比月付更划算，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含IPLC专线游戏加速优化与全节点原生流媒体解锁，团队版提供VIP专属高带宽节点与企业定制路由。基础版解锁基础流媒体，适合普通浏览。",
+          "AI_FAQ_ANSWER_5": "购买后根据设备系统选择对应客户端，在客户端中导入订阅链接即可。若导入后无法连接，可尝试更新订阅或切换节点线路。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐分别支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "套餐流量用完后会怎样？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "旗舰版与团队版在节点上有什么不同？",
+          "AI_FAQ_QUESTION_5": "如何将订阅导入到客户端？",
+          "AI_FAQ_TITLE": "套餐与使用常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "vwzhbdf.cn",
+    "host": "vwzhbdf.cn"
+  },
+  "file_hashes": {
+    "index.html": "ce54e0abd75b94d6399f0af74f74b7bffe38391a6ea5ef929e5b38fbd9015c83",
+    "sitemap.xml": "f245368f91223b9938609a1e109145c22207bb153016f999ef3267ff4635c87c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b8944a3a9c2f4d09e484a41c5d3744ab9cba6410e7d6482e542553ad7e0eaa54",
+    "robots.txt": "4795006e5a6e393a35aadc6b9edf329c73a8437b10efa4cfc31b713e43cda31e",
+    "9577140fa331386c3ef326aea4fa204a.txt": "cff64a2b63b1439b02199ca2b22c53d0c2ea7dbd461e7feba82cded2db0a3003"
+  },
+  "revision": "cbb6396bdcf200af0f484d2030d168f688c636526d7fb7f8abb1745f186f78ed"
+}
